@@ -1,7 +1,7 @@
 {
   "name": "@rosewrightdev/rose-components",
-  "version": "0.0.2",
-  "description": "A simple template for a custom React component library",
+  "version": "0.0.3",
+  "description": "A React component library",
   "scripts": {
     "rollup": "rollup -c"
   },
