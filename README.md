@@ -1,1 +1,1 @@
-# React Component Library Template rose-conponents
+# React Component Library Template react-rose
