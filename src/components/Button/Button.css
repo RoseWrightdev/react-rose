@@ -1,3 +1,10 @@
 button {
-  font-size: 60px;
+  font-size: 20px;
+  color: black;
+  background-color: white;
+  border-radius: 50px;
+}
+
+button:hover {
+  background-color: red;
 }
