@@ -1,10 +1,12 @@
 import React from "react";
-import "./FlexColtoRow.css";
-
+import "../global.css"
 
 
 const FlexColtoRow = () => {
-  return <div className="FlexColtoRow"></div>
+  return (
+  <div className="FlexColtoRow">test</div>
+
+  )
 };
 
 export default FlexColtoRow;
