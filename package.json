@@ -1,10 +1,10 @@
 {
   "name": "react-rose",
   "version": "1.0.3",
-  "description": "A react conponent library.",
+  "description": "A react component library.",
   "scripts": {
     "rollup": "rollup -c",
-    "test": "jest",
+    "tests": "jest",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook"
   },
@@ -52,6 +52,7 @@
     "sass": "^1.52.3",
     "sass-loader": "^13.0.0",
     "style-loader": "^3.3.1",
+    "trim-newlines": "^4.0.2",
     "tslib": "^2.4.0",
     "typescript": "^4.7.4"
   },

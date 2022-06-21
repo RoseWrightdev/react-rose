@@ -1,16 +1,16 @@
 import React from 'react';
 import { ComponentStory, ComponentMeta } from '@storybook/react';
 
-import FlexCol from './FlexCol';
+import FlexColtoRow from './FlexColtoRow';
 
 // More on default export: https://storybook.js.org/docs/react/writing-stories/introduction#default-export
 export default {
-  title: 'react-rose/FlexCol',
-  component: FlexCol,
-} as ComponentMeta<typeof FlexCol>;
+  title: 'react-rose/FlexColtoRow',
+  component: FlexColtoRow,
+} as ComponentMeta<typeof FlexColtoRow>;
 
 // More on component templates: https://storybook.js.org/docs/react/writing-stories/introduction#using-args
-const Template: ComponentStory<typeof FlexCol> = () => <FlexCol />;
+const Template: ComponentStory<typeof FlexColtoRow> = () => <FlexColtoRow />;
 
 export const FlexColComponent = Template.bind({});
 // More on args: https://storybook.js.org/docs/react/writing-stories/args

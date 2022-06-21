@@ -1,0 +1,9 @@
+.FlexColtoRow {
+  flex-direction: column;
+}
+
+@media only screen and (max-width: 1280px) {
+  .FlexColtoRow {
+    flex-direction: row;
+  }
+}
