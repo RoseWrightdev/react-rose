@@ -4,7 +4,7 @@ import "../global.css"
 
 const FlexColtoRow = () => {
   return (
-  <div className="FlexColtoRow">test</div>
+  <div className="FlexColtoRow"></div>
 
   )
 };

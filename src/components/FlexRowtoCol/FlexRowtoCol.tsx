@@ -4,7 +4,7 @@ import "../global.css"
 
 const FlexRowtoCol = () => {
   return (
-  <div className="FlexRowtoCol">test</div>
+  <div className="FlexRowtoCol"></div>
 
   )
 };
