@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
-button {
+.Button {
   background-color: #fff;
   font-family: 'Poppins', sans-serif;
   border-radius: 0.5rem;
@@ -18,6 +18,6 @@ button {
   color: #111827;
 }
 
-button:hover {
+.Button:hover {
   background-color: #f3f4f6;
 }
